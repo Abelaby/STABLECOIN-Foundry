@@ -1,4 +1,4 @@
-1. (Relative stability): Anchored or Pegges -> $1.00
+1. (Relative stability): Anchored or Pegged -> $1.00
     1. Chainlink Price Feed
     2. Set a function to exchange ETH & BTC -> $$$
 2. Stability Mechanism (Minting): Algorithmic (Decentralized)
